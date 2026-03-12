@@ -40,7 +40,6 @@ Thumbs.db
 *.opendb
 
 .vs
-.vscode
 DesktopEditor/fontengine/js/common/freetype-2.10.4
 *_resource.rc
 
@@ -48,3 +47,7 @@ DesktopEditor/fontengine/js/common/freetype-2.10.4
 Common/3dParty/openssl/openssl/
 
 msvc_make.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
